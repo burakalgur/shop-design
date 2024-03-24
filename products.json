@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "description": "Organic Skinny High Waist Jeans",
+            "price": "33.95",
+            "img": "./assets/product-1.png"
+        },
+        {
+            "id": 2,
+            "description": "Organic Skinny High Waist Jeans",
+            "price": "33.95",
+            "img": "./assets/product-2.png"
+        },
+        {
+            "id": 3,
+            "description": "Organic Skinny High Waist Jeans",
+            "price": "33.95",
+            "img": "./assets/product-3.png"
+        }
+    ]
+}
